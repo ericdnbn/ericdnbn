@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=Users/ericdenbin/downloads/github_readme_pic.png />
+  <img src="Users/ericdenbin/downloads/github_readme_pic.png"/>
 </p>
 
 ### Hi there 👋
