@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="Users/ericdenbin/downloads/github_header.png"/>
-</p>
+![github_header](https://user-images.githubusercontent.com/80349394/140988000-bb13d479-626b-4e7b-8fc6-00fa73ea1fa8.png)
 
 ### Hi there 👋
 
 My name is Eric Denbin and I am a data scientist with a background in social media marketing and psychology. After working for my first couple of years out of college, I decided to go through Flatiron School's immersive data science program. My philosophy as it pertains to leveraging data is based on my fascination with finding undiscovered relationships and interactions in the world, seeking truth. 
+
+
 
 
 - 🔭 I’m currently working on an open source computer vision project through Omdena
