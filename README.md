@@ -1,4 +1,6 @@
-<img> src="Users/ericdenbin/downloads/github_readme_pic.png" <img/>
+<p align="center">
+  <img src=Users/ericdenbin/downloads/github_readme_pic.png />
+</p>
 
 ### Hi there 👋
 
