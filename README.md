@@ -10,7 +10,7 @@ My name is Eric Denbin and I am a data scientist with a background in social med
 - 👯 I’m looking to collaborate on machine learning and deep learning projects with the objective being to make a positive social impact
 - 📫 How to reach me: ericdnbn@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: In my free time, I like playing music with friends!
+- ⚡ Fun fact: In my free time, I enjoy playing music with friends!
 -->
 
 <!--
